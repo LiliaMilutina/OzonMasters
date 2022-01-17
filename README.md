@@ -18,17 +18,21 @@
   - реализация основных блоков нейронной сети вручную
   - классификация Traffic Sign Recognition средствами PyTorch
   - SSD detector
-  - 
+  - Audio denoising
+  - Conditional GAN
  
 - **RecommenderSystems**: 
-  - итоговый проект по NLA, в рамках которого реализована рекомендательная система порфеля акций на основе pmf (probability matrix factorization), а также серия ноутбуков с реализациями различных алгоритмов
+  - итоговый проект по NLA, в рамках которого реализована рекомендательная система порфеля акций на основе PMF (probability matrix factorization)
+  - серия ноутбуков с реализациями классических подходов (SVD, NMF, kNN), а также нейросетевых (NCF, GMF)
 
 - **LinearAlgebra**: 
   - задачи по NLA
   
 - **AB-testing**:
+  - MDE
   - стратификация
   - CUPED
+  - множественное тестирование
 
 - **AlgorithmTheory**: 
   - алгоритмические задачи на псевдокоде
